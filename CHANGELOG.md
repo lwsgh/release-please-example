@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/lwsgh/release-please-example/compare/v1.4.0...v1.5.0) (2023-08-18)
+
+
+### Features
+
+* 使用 opened 事件 ([ccd0368](https://github.com/lwsgh/release-please-example/commit/ccd0368e27461ed44362fe5dc2ffe0c0944efeb4))
+
 ## [1.4.0](https://github.com/lwsgh/release-please-example/compare/v1.3.0...v1.4.0) (2023-08-18)
 
 
