@@ -8,7 +8,7 @@ on:
       # - opened
       # - edited
       # - ready_for_review
-      - ready_for_merge
+      - auto_merge_enabled
       # - reopened
       # - unlocked
   pull_request_review:
