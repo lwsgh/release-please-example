@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.6](https://github.com/lwsgh/release-please-example/compare/v1.1.5...v1.1.6) (2023-08-18)
+
+
+### Bug Fixes
+
+* 修改 auto merge action 配置 ([b6109e9](https://github.com/lwsgh/release-please-example/commit/b6109e9e431eccf96844b9cae231b99ca74222cf))
+
 ## [1.1.5](https://github.com/lwsgh/release-please-example/compare/v1.1.4...v1.1.5) (2023-08-18)
 
 
