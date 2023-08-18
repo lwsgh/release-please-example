@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.2.0](https://github.com/lwsgh/release-please-example/compare/v1.1.12...v1.2.0) (2023-08-18)
+
+
+### Features
+
+* 删除 labeled 以外的事件 ([2a3ca05](https://github.com/lwsgh/release-please-example/commit/2a3ca05cda701d8c66fa007428cdb3f55aaf708f))
+* 删除 synchronize 事件 ([86fac72](https://github.com/lwsgh/release-please-example/commit/86fac721a780dd9990be47964b0332b868523c82))
+* 删除 unlabeled 事件 ([ce17eec](https://github.com/lwsgh/release-please-example/commit/ce17eec739545095b2d96cd6df1306c2fabc99e2))
+
 ## [1.1.12](https://github.com/lwsgh/release-please-example/compare/v1.1.11...v1.1.12) (2023-08-18)
 
 
