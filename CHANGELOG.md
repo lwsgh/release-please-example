@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/lwsgh/release-please-example/compare/v1.3.0...v1.4.0) (2023-08-18)
+
+
+### Features
+
+* 使用 auto_merge_enabled 事件 ([270f548](https://github.com/lwsgh/release-please-example/commit/270f5488ada25a19eab95bea5049e3af048d883c))
+
 ## [1.3.0](https://github.com/lwsgh/release-please-example/compare/v1.2.0...v1.3.0) (2023-08-18)
 
 
