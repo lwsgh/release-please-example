@@ -5,10 +5,10 @@ on:
       # - labeled
       # - unlabeled
       # - synchronize
-      # - opened
+      - opened
       # - edited
       # - ready_for_review
-      - auto_merge_enabled
+      # - auto_merge_enabled
       # - reopened
       # - unlocked
   pull_request_review:
