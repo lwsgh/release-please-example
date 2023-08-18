@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/lwsgh/release-please-example/compare/v1.2.0...v1.3.0) (2023-08-18)
+
+
+### Features
+
+* 仅保留 ready_for_merge 事件 ([1783607](https://github.com/lwsgh/release-please-example/commit/17836079a92bf0c1239f1c39e4df814f91046a15))
+
 ## [1.2.0](https://github.com/lwsgh/release-please-example/compare/v1.1.12...v1.2.0) (2023-08-18)
 
 
