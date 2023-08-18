@@ -1,4 +1,4 @@
-name: auto-merge
+name: AutoMerge
 on:
   pull_request:
     types:
@@ -19,9 +19,10 @@ jobs:
   auto-merge:
     runs-on: ubuntu-latest
     steps:
-      - name: auto-merge
+      - name: automerge
         uses: 'pascalgn/automerge-action@v0.15.6'
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          MERGE_LABELS: "automerge"
           # 只要是 lwsgh 用户，都进行合并
           MERGE_FILTER_AUTHOR: 'lwsgh'
