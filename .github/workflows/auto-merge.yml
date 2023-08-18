@@ -2,7 +2,7 @@ name: auto-merge
 on:
   pull_request:
     types:
-      - ready_to_merge
+      - opened
   pull_request_review:
     types:
       - submitted
@@ -18,6 +18,6 @@ jobs:
         uses: 'pascalgn/automerge-action@v0.15.6'
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          MERGE_LABELS: ''
+          MERGE_LABELS: 'autorelease: pending'
           # 只要是 lwsgh 用户，都进行合并
           MERGE_FILTER_AUTHOR: 'lwsgh'
