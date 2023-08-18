@@ -2,7 +2,15 @@ name: auto-merge
 on:
   pull_request:
     types:
-      - ready-to-merge
+      - labeled
+      - unlabeled
+      - synchronize
+      - opened
+      - edited
+      - ready_for_review
+      - ready_to_merge
+      - reopened
+      - unlocked
   pull_request_review:
     types:
       - submitted
