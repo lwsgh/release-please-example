@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.12](https://github.com/lwsgh/release-please-example/compare/v1.1.11...v1.1.12) (2023-08-18)
+
+
+### Bug Fixes
+
+* 修改release-please 配置 ([9ac13e0](https://github.com/lwsgh/release-please-example/commit/9ac13e0d4fe63839fb2c39ec05d1b426a9fbfa1b))
+
 ## [1.1.11](https://github.com/lwsgh/release-please-example/compare/v1.1.10...v1.1.11) (2023-08-18)
 
 
